@@ -1,0 +1,28 @@
+table {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #DCDCDC;
+}
+
+tr.border-bottom td {
+  border-bottom:2px solid black;
+ padding: 1rem;
+}
+
+* {
+    font-family: Verdana;
+}
+
+
+.key {
+    margin-left: 10%;
+}
+
+.personal {
+    marg
+}
+
+.header td {
+    width: 33.33%;
+}
